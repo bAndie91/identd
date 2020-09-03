@@ -16,3 +16,6 @@ Terms "Client" and "Server" are meant in terms of TCP, not in any higher perspec
   * `6191,23:USERID:WINNT:stjohns`, but also with 
   * `6191,23:DOMAIN:WINNT:somedomain`, and
   * `6191,23:EXECUTABLE:WINNT:C:\Windows\System\Explorer.exe` if applicable.
+
+# issues
+Please submit issues via PR to some file `issue/TITLE.txt`.
