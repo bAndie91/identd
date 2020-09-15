@@ -18,4 +18,4 @@ Terms "Client" and "Server" are meant in terms of TCP, not in any higher perspec
   * `6191,23:EXECUTABLE:WINNT:C:\Windows\System\Explorer.exe` if applicable.
 
 # issues
-Please submit issues via PR to some file `issue/TITLE.txt`.
+Please submit issues via PR to some file `<TITLE>.txt` or `<TITLE>.md` on `issues` branch.
